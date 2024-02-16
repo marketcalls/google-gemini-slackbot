@@ -13,7 +13,6 @@ This Slack Bot integrates Google Gemini's AI technology into Slack, offering a s
 ![Accessing the SlackBot Using Direct Message](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-37.png?resize=1024%2C439&ssl=1)
 
 
-
 ## Resources
 
 For a detailed step-by-step guide on building this digital assistant, visit [Building a Digital Assistant in Slack with Google Gemini: A Step-by-Step Guide](https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html).
@@ -23,6 +22,25 @@ For a detailed step-by-step guide on building this digital assistant, visit [Bui
 - Google Gemini API Key
 - Slack App with OAuth & Permissions configured
 - Python environment with necessary libraries
+
+## Configuration
+
+Before running the project, you need to set up your environment variables. A sample environment file `.env.sample` is provided in the project. Copy this file to a new file named `.env` and update the variables with your own values.
+
+The `.env.sample` file contains the following structure:<br>
+<code>
+GOOGLE_API_KEY="your_google_api_key_here"<br>
+SLACK_BOT_TOKEN="your_slack_bot_token_here"<br>
+BOT_USER_ID="your_bot_user_id_here"<br>
+FLASK_APP=your_entry_point_script_here # e.g., "app.py"<br></code>
+
+### Steps to configure your environment:
+
+1. Copy the `.env.sample` file to a new file named `.env` in the root directory of the project.
+2. Replace `your_google_api_key_here`, `your_slack_bot_token_here`, `your_bot_user_id_here`, and `your_entry_point_script_here` with your actual configuration values.
+
+**Note:** Never commit your `.env` file or any sensitive credentials to version control. The `.env` file is included in the `.gitignore` to prevent accidental upload.
+
 
 ## Setup Instructions
 
