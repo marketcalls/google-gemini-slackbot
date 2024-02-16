@@ -29,9 +29,9 @@ Before running the project, you need to set up your environment variables. A sam
 
 The `.env.sample` file contains the following structure:<br>
 <code>
-GOOGLE_API_KEY="your_google_api_key_here"<br>
-SLACK_BOT_TOKEN="your_slack_bot_token_here"<br>
-BOT_USER_ID="your_bot_user_id_here"<br>
+GOOGLE_API_KEY=your_google_api_key_here<br>
+SLACK_BOT_TOKEN=your_slack_bot_token_here<br>
+BOT_USER_ID=your_bot_user_id_here<br>
 FLASK_APP=your_entry_point_script_here # e.g., "app.py"<br></code>
 
 ### Steps to configure your environment:
