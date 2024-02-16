@@ -3,6 +3,16 @@
 
 This Slack Bot integrates Google Gemini's AI technology into Slack, offering a smart, responsive assistant that enhances productivity. Follow these steps to set up and deploy your bot.
 
+## Accessing the SlackBot from Slack Channel with an App Mention
+
+![alt text]([http://url/to/img.png](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-38.png?resize=1024%2C463&ssl=1))
+
+## Accessing the SlackBot Using Direct Message
+
+![alt text]([http://url/to/img.png](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-37.png?resize=1024%2C439&ssl=1))
+
+
+
 ## Resources
 
 For a detailed step-by-step guide on building this digital assistant, visit [Building a Digital Assistant in Slack with Google Gemini: A Step-by-Step Guide](https://www.marketcalls.in/python/building-a-digital-assistant-in-slack-with-google-gemini-a-step-by-step-guide.html).
