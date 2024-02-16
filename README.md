@@ -41,15 +41,28 @@ For a detailed step-by-step guide on building this digital assistant, visit [Bui
 
 ## Dependencies
 
-List all necessary Python libraries and their installation commands, e.g., `Flask`, `slack_sdk`, `google-generativeai`.
+Ensure your project has all the necessary dependencies by installing the required libraries which include Flask, various Google and Slack SDKs, and other utility libraries.
+
+Flask
+google-ai-generativelanguage
+google-api-core
+google-auth
+google-generativeai
+googleapis-common-protos
+gunicorn
+requests
+slack_sdk
+colorama
+python-dotenv
+
+To install the required dependencies for this project, follow the steps below:
+Run the following command to install the dependencies listed in `requirements.txt`:
+```bash
+pip install -r requirements.txt
 
 ## Deployment
 
-Detailed steps for deploying with ngrok for local testing and Google Cloud App Engine for production, including setting environment variables and configuring app.yaml for GCP.
-
-## Usage
-
-Instructions on how to interact with your bot within Slack, including app mentions and direct messages.
+Detailed steps for deploying with ngrok for local testing and Google Cloud App Engine for production, including setting environment variables and configuring app.yaml for GCP. (refer the resource section)
 
 ## Contributing
 
