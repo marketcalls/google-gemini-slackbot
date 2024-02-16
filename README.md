@@ -41,24 +41,24 @@ For a detailed step-by-step guide on building this digital assistant, visit [Bui
 
 ## Dependencies
 
-Ensure your project has all the necessary dependencies by installing the required libraries which include Flask, various Google and Slack SDKs, and other utility libraries.
+Ensure your project has all the necessary dependencies by installing the required libraries which include Flask, various Google and Slack SDKs, and other utility libraries.<br>
 
-Flask
-google-ai-generativelanguage
-google-api-core
-google-auth
-google-generativeai
-googleapis-common-protos
-gunicorn
-requests
-slack_sdk
-colorama
-python-dotenv
+Flask<br>
+google-ai-generativelanguage<br>
+google-api-core<br>
+google-auth<br>
+google-generativeai<br>
+googleapis-common-protos<br>
+gunicorn<br>
+requests<br>
+slack_sdk<br>
+colorama<br>
+python-dotenv<br>
 
 To install the required dependencies for this project, follow the steps below:
 Run the following command to install the dependencies listed in `requirements.txt`:
-```bash
-pip install -r requirements.txt
+
+<code>pip install -r requirements.txt</code>
 
 ## Deployment
 
