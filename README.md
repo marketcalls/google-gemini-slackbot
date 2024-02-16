@@ -5,11 +5,12 @@ This Slack Bot integrates Google Gemini's AI technology into Slack, offering a s
 
 ## Accessing the SlackBot from Slack Channel with an App Mention
 
-![alt text]([http://url/to/img.png](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-38.png?resize=1024%2C463&ssl=1))
+![Accessing the SlackBot from Slack Channel with an App Mention
+](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-38.png?resize=1024%2C463&ssl=1)
 
 ## Accessing the SlackBot Using Direct Message
 
-![alt text]([http://url/to/img.png](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-37.png?resize=1024%2C439&ssl=1))
+![Accessing the SlackBot Using Direct Message](https://i0.wp.com/www.marketcalls.in/wp-content/uploads/2024/02/image-37.png?resize=1024%2C439&ssl=1)
 
 
 
